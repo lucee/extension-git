@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Export-Package: ch.rasia.extension.resource.git
+Bundle-ManifestVersion: 2
+Require-Bundle: org.lucee.jgit;bundle-version=4.11.0.201803080745-r,
+ com.googlecode.javaewah.JavaEWAH;bundle-version=1.1.6,
+ com.github.mwiede.jsch;bundle-version=0.2.8,
+ org.lucee.jzlib;bundle-version=1.1.3,
+ slf4j.api;bundle-version=1.7.12
